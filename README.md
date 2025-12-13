@@ -26,5 +26,6 @@ Features:
 Predicts emotions from text input
 Supports multiple emotions: joy, anger, fear, sadness, surprise
 Provides confidence scores for predictions
-Real-time text input support
+Real-time text input support.
+
 
