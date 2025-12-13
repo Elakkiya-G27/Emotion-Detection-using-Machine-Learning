@@ -6,20 +6,20 @@ Developed a text-based Emotion Detection system using Python, Machine Learning, 
 The system accurately predicts emotions such as joy, anger, fear, sadness, and surprise from user input text and provides real-time predictions with confidence scores.
 
 Tech Stack:
-Python
-Machine Learning (Naive Bayes, SVM)
-Deep Learning (Fine-tuned BERT)
+Python,
+Machine Learning (Naive Bayes, SVM),
+Deep Learning (Fine-tuned BERT),
 NLP (NLTK, Scikit-learn, Transformers)
 
 Text Preprocessing:
-Tokenization
-Stop-word removal
-Lemmatization
+Tokenization,
+Stop-word removal,
+Lemmatization,
 Feature extraction using TF-IDF and word embeddings
 
 Models Implemented:
-Naive Bayes
-Support Vector Machine (SVM)
+Naive Bayes,
+Support Vector Machine (SVM),
 Fine-tuned BERT
 
 Features:
@@ -27,3 +27,4 @@ Predicts emotions from text input
 Supports multiple emotions: joy, anger, fear, sadness, surprise
 Provides confidence scores for predictions
 Real-time text input support
+
